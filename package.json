@@ -1,0 +1,28 @@
+{
+  "name": "employee-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriminjue/CRUD-service-for-Employee-records-.git"
+  },
+  "author": "Mathew Murimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriminjue/CRUD-service-for-Employee-records-/issues"
+  },
+  "homepage": "https://github.com/muriminjue/CRUD-service-for-Employee-records-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "winston": "^3.8.2"
+  }
+}
