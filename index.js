@@ -17,7 +17,7 @@ const swagger_options = {
         info: {
             title: 'Employee CRUD App',
             description: 'Api that accepts create, read, update and delete operations for employee records',
-            version: '0.1.0',
+            version: '1.0.0',
             contact: {
                 name: "Mathew murimi",
                 email: "muriminjue.nm@gmail.com"
