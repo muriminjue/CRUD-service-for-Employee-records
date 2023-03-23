@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
 // Employee model schema
+
 const employeeSchema = mongoose.Schema(
     {
         firstname: {
@@ -55,7 +56,7 @@ const employeeSchema = mongoose.Schema(
             required: true,
         },
         salary: {
-            type: String,
+            type: Number,
             required: true,
         },
     },
