@@ -33,51 +33,51 @@ router.use(cors());
  *           description: The auto-generated id of the Employee
  *         firstname:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's firstname
  *         lastname:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's lastname
  *         surname:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's surname
  *         email:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's email
  *         contact:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's contact
  *         city:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's city of residence
  *         postal_address:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's postal address
  *         nationality:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's nationality
  *         gender:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's gender
  *         national_id:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's natiional identification or passport number
  *         department:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's work department
  *         position:
  *           type: string
- *           description: The title of your book
+ *           description: The employee's of position in the department
  *         salary:
  *           type: integer
- *           description: The title of your book
+ *           description: The employee's salary
  *         createdAt:
  *           type: string
  *           format: date
- *           description: The date the Employee was added
+ *           description: The date and time the Employee was added
  *         updatedAt:
  *           type: string
  *           format: date
- *           description: The date the Employee was updated
+ *           description: The date and time the Employee was updated
  *       example:
  *          firstname: Tom
  *          lastname: Dick
